@@ -22,6 +22,13 @@ linux环境下常用开发工具配置使用，如Vim，Emacs
 主要使用SublimeText与Eclipse等可完美跨平台的开发工具进行软件开发
 代码风格优美严谨
 
+校内开发经历
+2012学年，大一年度项目，《NewBasic大学社团管理系统》，在小组内负责总体功能设计，核心代码编写。
+2013学年，Java课程设计，《MyCoins个人理财软件》，在两人小组内负责全部非UI代码编写，主要UI设计，全部软件功能设计。
+
+个人开发经历
+2013年12月，在github上上传了一个纯文字的android小游戏《Trilegends》，这是我第一个android项目，初学者的helloworld，简单实现了activity间的跳转，linearlayout的使用，menu样式的初步定制，编写了一个activity容器类，通过遍历其中的activity来实现整个程序的终结。
+2013年12月末，在github上上传第二个纯文字android小游戏《Space》，
 
 教育经历
 2012年9月，进入哈尔滨工业大学软件学院软件工程专业攻读本科学士学位。
@@ -32,10 +39,4 @@ linux环境下常用开发工具配置使用，如Vim，Emacs
 2012学年加入“新基论坛”媒体宣传部手绘组，负责活动海报绘制与艺术字书写
 期间接待的嘉宾有：“中国好声音”主持人华少，动画《秦时明月》制作团队等
 
-校内开发经历
-2012学年，大一年度项目，《NewBasic大学社团管理系统》，在小组内负责总体功能设计，核心代码编写。
-2013学年，Java课程设计，《MyCoins个人理财软件》，在两人小组内负责全部非UI代码编写，主要UI设计，全部软件功能设计。
 
-个人开发经历
-2013年12月，在github上上传了一个纯文字的android小游戏《Trilegends》，这是我第一个android项目，初学者的helloworld，简单实现了activity间的跳转，linearlayout的使用，menu样式的初步定制，编写了一个activity容器类，通过遍历其中的activity来实现整个程序的终结。
-2013年12月末，在github上上传第二个纯文字android小游戏《Space》，
