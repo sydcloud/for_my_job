@@ -2,7 +2,8 @@
 简历标题：android技术开发_两年独立开发经历_宋源栋_哈尔滨工业大学_手机号
 －－－－－－－－－－－－－－－－－－－－－－－－－－
 姓名：宋源栋
-github主页：https://github.com/sydcloud/
+github主页：https://github.com/sydcloud
+csdn主页：http://blog.csdn.net/sydnever
 
 联系方式
 手机：
